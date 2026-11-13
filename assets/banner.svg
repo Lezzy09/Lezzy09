@@ -38,13 +38,6 @@
     <circle class="blob" cx="930" cy="80" r="260" fill="url(#glowA)"/>
     <circle class="blob2" cx="160" cy="260" r="230" fill="url(#glowB)"/>
 
-    <!-- duck mark -->
-    <g transform="translate(980 150)" opacity="0.9">
-      <circle r="78" fill="none" stroke="url(#title)" stroke-width="2" stroke-dasharray="4 10" opacity="0.6"/>
-      <path d="M-30 18c0-26 18-44 40-44 18 0 30 12 30 28 0 6-2 11-5 15h17c-2 22-24 37-52 37-18 0-30-14-30-36z" fill="#fde047"/>
-      <path d="M38 -3l22 6-22 7z" fill="#fb923c"/>
-      <circle cx="18" cy="-6" r="5" fill="#0b0f1e"/>
-    </g>
 
     <text x="70" y="128" font-family="'Segoe UI', Inter, system-ui, -apple-system, sans-serif" font-size="78" font-weight="800" fill="url(#title)">Lezzy</text>
     <text x="72" y="172" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', monospace" font-size="22" fill="#cbd5e1">&gt; building tools for UEFN creators<tspan class="cursor" fill="#5eead4">_</tspan></text>
